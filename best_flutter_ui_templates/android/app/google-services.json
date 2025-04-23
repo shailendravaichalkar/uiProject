@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "251805845588",
+    "project_id": "smrtgate-21141",
+    "storage_bucket": "smrtgate-21141.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251805845588:android:35ced420d2808fe20dc5c1",
+        "android_client_info": {
+          "package_name": "com.smart.best_flutter_ui_templates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251805845588-fq7ovja5id94a7f81fo2cr5jd77cscqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANgDKzT_jEqV5_fgRIXYFub2fqzJxLRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251805845588-fq7ovja5id94a7f81fo2cr5jd77cscqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251805845588-5a9cofu8ftbgm8a0a9rt9j0hupk043lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smart.smartgate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251805845588:android:626c3357822d1ce90dc5c1",
+        "android_client_info": {
+          "package_name": "com.smart.smartgate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251805845588-o2e9vjormfrtrnoeor9cmrud3h82vf4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart.smartgate",
+            "certificate_hash": "8ad3cdda15fd6a93e52ae9cbc2f994403c34eaaf"
+          }
+        },
+        {
+          "client_id": "251805845588-fq7ovja5id94a7f81fo2cr5jd77cscqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANgDKzT_jEqV5_fgRIXYFub2fqzJxLRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251805845588-fq7ovja5id94a7f81fo2cr5jd77cscqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251805845588-5a9cofu8ftbgm8a0a9rt9j0hupk043lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smart.smartgate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
